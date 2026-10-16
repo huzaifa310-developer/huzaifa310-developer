@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Muhammad Huzaifa Farooq - BUILD WITH HUZAIFA" width="100%">
+  <img src="banner.jpeg" alt="Muhammad Huzaifa Farooq - BUILD WITH HUZAIFA" width="100%">
 </p>
 
 ## About
